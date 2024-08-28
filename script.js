@@ -44,7 +44,7 @@ pokeButton.addEventListener("click",function(){
         pokeButton.className ="hidden"
         pokeName.focus()
         pokeName.value = ""
-        setInterval('count()',1000);
+//        setInterval('count()',1000);
 });
 // pokeGuess.addEventListener("click",function(pepe){
 function pepe(){
